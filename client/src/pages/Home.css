@@ -1,0 +1,18 @@
+/* En Home.css */
+.home {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.main-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.middle-section {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Otros estilos específicos según necesidades */
